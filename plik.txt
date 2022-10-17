@@ -1,1 +1,4 @@
-to jest trzecia zmiana w tym pliku, zobaczymy co życie przyniesie 
+to jest trzecia zmiana w tym pliku, zobaczymy co życie przyniesie
+
+
+nowa funkcja tego pliku. 
