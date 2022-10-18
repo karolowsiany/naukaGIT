@@ -1,5 +1,0 @@
-zmiany w pliku E w branchu master
-
-zmiany w pliku E w branchu testing
-
-2 zmiany w pliku E 2 branchu testinh
