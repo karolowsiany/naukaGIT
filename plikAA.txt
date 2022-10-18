@@ -1,1 +1,2 @@
 zmiany w pliku AA w banchu master
+dodanie funkcjonalnosci w wersji 2.0
