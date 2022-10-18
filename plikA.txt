@@ -1,2 +1,3 @@
+dodanie zawaertosci w pliku A, branch testing 2
 dodanie zawartosci w pliku a, branch testing
 dodanie wiersza w branchu master
