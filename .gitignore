@@ -1,0 +1,5 @@
+a.smiec
+*.iml
+*.xml
+*.config
+out/*
